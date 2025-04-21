@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: [
     "@pinia/nuxt", // Add Pinia module
   ],
-  plugins: ["@/plugins/firebase"], // Add Firebase plugin,
+  plugins: ["@/plugins/firebase", "@/plugins/cart"],
   app: {
     head: {
       link: [
