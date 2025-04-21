@@ -1,6 +1,6 @@
 <!-- filepath: c:\personal_proj\ecom\nuxt_ecom\layouts\default.vue -->
 <template>
-  <div>
+  <div class="font-serif">
     <Header />
     <main class="container mx-auto p-4 min-h-screen">
       <NuxtPage />
@@ -10,6 +10,6 @@
 </template>
 
 <script setup>
-import Header from "@/components/Header.vue";
-import Footer from "@/components/Footer.vue";
+import Header from "@/components/header.vue";
+import Footer from "@/components/footer.vue";
 </script>

@@ -2,9 +2,7 @@
   <header class="text-primary shadow-md">
     <div class="container mx-auto flex items-center justify-between p-4">
       <!-- Logo -->
-      <NuxtLink to="/" class="text-2xl font-serif font-bold"
-        >Outdoor Luxe</NuxtLink
-      >
+      <NuxtLink to="/" class="text-2xl font-bold">Outdoor Luxe</NuxtLink>
 
       <!-- Mobile Menu Button -->
       <button

@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto p-4">
+  <div class="container font-serif mx-auto p-4">
     <h1 class="text-2xl font-bold text-gray-800">Register</h1>
     <form class="mt-4">
       <div class="mb-4">
