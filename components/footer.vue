@@ -1,6 +1,6 @@
 <!-- filepath: c:\personal_proj\ecom\nuxt_ecom\components\Footer.vue -->
 <template>
-  <footer class="bg-primary text-dark">
+  <footer class="text-dark border">
     <div class="container mx-auto p-6">
       <div class="flex flex-col md:flex-row justify-between items-center">
         <!-- Links -->
